@@ -1,2 +1,2 @@
 # motif
-A website tool for creation &amp; inspiration.
+A bilingual cross-media creative inspiration and research platform.
